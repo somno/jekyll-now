@@ -24,5 +24,14 @@ Clinical software that is merely functional is not acceptable. The software we u
 Somno is built on top of <a href="https://opal.openhealthcare.org.uk/">Opal</a> a Django framework for healthcare applications. One of it's neat features is every database model automatically has a corresponding API. Digitising paper and then walling it off isn't innovation, it's a barrier to it and an application that has easy to use API's will provide a base for the next phase of technological innovation without allowing vendor lock in. Imagine your electronic record was continually updating your logbook, could fill in NELA for you or allowed you to complete an audit with a couple of lines of code? That doesn't happen with siloed information.
 
 <h4>Interoperability<h4>
+Siloed information is annoying, it makes work harder and it's dangerous because eventually people stop looking at it if they can get away with it. Thankfully there are real strides being made with FHiR and openEHR to create common standards that allow clinical systems to talk to each other in a way most people who've written a little code can understand. While there's a lot to do with a limited budget we'll be looking to leverage the currently available resources as much as possible to allow Somno to ingest relevant information such as patient medications and allergies to speed up and enhance the anaesthetic pre-assessment.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+<h4>Anaesthetics on the Blockchain<h4>
+I'm Joking
+
+<h2>How?</h2>
+<p>First off this project has been enabled by a grant from the Apperta Foundation and I'm extremely grateful to have been one of the successful applicants to the Innovation Fund</p>
+<p>David Millar and Fred Kingham of <a href="https://www.openhealthcare.org.uk/">Open Healthcare</a> will be doing alot of the redevelopment and have experience of delivering great healthcare software in the chaotic reality that is the NHS</p>
+<p><a href="http://artifactual.co.uk/">Mike Thompson</a> will be conducting user research and doing some initial design work. He was a member of the original hackday team!</p>
+<p>Kristian Glass was another member of the hackday keen and i'm incredible pleased to have him back to help. He'll be working on redoing how we ingest data with the slightly battered monitor i've bought for the project</p>
+<p>In accordance with the conditions of the fund the money had to be administered by a community interest company and i'm really grateful</p>
