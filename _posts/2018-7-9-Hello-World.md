@@ -3,7 +3,7 @@ layout: post
 title: Hello World
 ---
 
-Introducing Somno. An agile, 21st century, digital Anaesthetic record that's built for the people that use them
+Introducing Somno. An agile, 21st century, digital Anaesthetic record that's built for the people that use them.
 
 
 <h2>What?</h2>
@@ -18,7 +18,7 @@ The volume of information we get from our monitors is almost impossible to recor
 
 <h2>The Plan</h2>
 <h4>User centric design</h4>
-Clinical software that is merely functional is not acceptable. The software we use in day to day practice must complement our natural workflow and aid us in our day to day work instead of slowing us down like much of what is already out there. That is why day 1 of this project involved getting together and mapping out the steps in a patients journey through theatres, what the interactions and problems are and where Somno might fit in. We'll also be conducting interviews with other anaesthetists to make sure it suits everyone, not just those who are already true believers in technological solutions and so that it works whether the case is 10 minutes long or 10 hours
+Clinical software that is merely functional is not acceptable. The software we use in day to day practice must complement our natural workflow and aid us in our day to day work instead of slowing us down like much of what is already out there. That is why day 1 of this project involved getting together and mapping out the steps in a patients journey through theatres, what the interactions and problems are and where Somno might fit in. We'll also be conducting interviews with other anaesthetists to make sure it suits everyone, not just those who are already true believers in technological solutions and so that it works whether the case is 10 minutes long or 10 hours.
 
 ![_config.yml]({{ site.baseurl }}/images/brainstorm.jpg)
 
@@ -32,11 +32,11 @@ Siloed information is annoying, it makes work harder and it's dangerous because 
 I'm Joking
 
 <h2>How?</h2>
-<p>First off this project has been enabled by a grant from the <a href="https://apperta.org/">Apperta Foundation</a> and I'm extremely grateful to have been one of the successful applicants to the Innovation Fund</p>
-<p>David Millar and Fred Kingham of <a href="https://www.openhealthcare.org.uk/">Open Healthcare</a> will be doing alot of the redevelopment and have experience of delivering great healthcare software in the chaotic reality that is the NHS</p>
+<p>First off this project has been enabled by a grant from the <a href="https://apperta.org/">Apperta Foundation</a> and I'm extremely grateful to have been one of the successful applicants to the Innovation Fund.</p>
+<p>David Miller and Fred Kingham of <a href="https://www.openhealthcare.org.uk/">Open Health Care</a> will be doing a lot of the redevelopment and have experience of delivering great healthcare software in the chaotic reality that is the NHS.</p>
 <p><a href="http://artifactual.co.uk/">Mike Thompson</a> will be conducting user research and doing some initial design work. He was a member of the original hackday team!</p>
-<p>Kristian Glass was another member of the hackday team and I'm incredible pleased to have him back to help. He'll be working on redoing how we ingest data with the slightly battered monitor I've bought for the project</p>
-<p>In accordance with the conditions of the fund the money had to be administered by a community interest company and I'm really grateful to <a href="https://www.openhealthhub.org/">Open Health Hub</a> for doing so</p>
+<p>Kristian Glass was another member of the hackday team and I'm incredibly pleased to have him back to help. He'll be working on redoing how we ingest data with the slightly battered monitor I've bought for the project.</p>
+<p>In accordance with the conditions of the fund the money had to be administered by a community interest company and I'm really grateful to <a href="https://www.openhealthhub.org/">Open Health Hub</a> for doing so.</p>
 
 <h2>What Next?</h2>
 We get to work!
