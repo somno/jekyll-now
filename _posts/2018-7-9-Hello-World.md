@@ -33,7 +33,7 @@ I'm Joking
 
 <h2>How?</h2>
 <p>First off this project has been enabled by a grant from the <a href="https://apperta.org/">Apperta Foundation</a> and I'm extremely grateful to have been one of the successful applicants to the Innovation Fund.</p>
-<p>David Miller and Fred Kingham of <a href="https://www.openhealthcare.org.uk/">Open Health Care</a> will be doing a lot of the redevelopment and have experience of delivering great healthcare software in the chaotic reality that is the NHS.</p>
+<p>Fred Kingham and the rest of the team at <a href="https://www.openhealthcare.org.uk/">Open Health Care</a> will be doing a lot of the redevelopment and have experience of delivering great healthcare software in the chaotic reality that is the NHS.</p>
 <p><a href="http://artifactual.co.uk/">Mike Thompson</a> will be conducting user research and doing some initial design work. He was a member of the original hackday team!</p>
 <p>Kristian Glass was another member of the hackday team and I'm incredibly pleased to have him back to help. He'll be working on redoing how we ingest data with the slightly battered monitor I've bought for the project.</p>
 <p>In accordance with the conditions of the fund the money had to be administered by a community interest company and I'm really grateful to <a href="https://www.openhealthhub.org/">Open Health Hub</a> for doing so.</p>
